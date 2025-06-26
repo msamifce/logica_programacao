@@ -1,5 +1,8 @@
 # Lista de Exercícios - Tarefa 3
 
+# Foi usado o comando try que não tinha sido estudo por nós.
+# Segundo minhas pesquisas, é uma opção eficiente para evitar/minimizar erros
+# Fonte: https://www.hashtagtreinamentos.com/try-except-em-python?conversion=base-py-go-post&gad_source=1&gad_campaignid=15353425825&gbraid=0AAAAADLlh8_wsbq46LB5hFZWGaUgYIYHx&gclid=CjwKCAjw3_PCBhA2EiwAkH_j4oxQ3ZOznKipk4vyicdVsap7AMUHLNqCGNRCm1UBfRuhN1uETSC1iRoCknkQAvD_BwE
 # 1
 print("===> Questão 1 ")
 num11 = float(input("Digite o primeiro número: "))
