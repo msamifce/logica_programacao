@@ -1,5 +1,5 @@
 # main.py
-from sistema_academico import *
+from funcoes import *
 
 def menu_principal():
     """
